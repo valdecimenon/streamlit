@@ -52,7 +52,7 @@ aba1, aba2, aba3 = st.tabs(['Tabelas', 'Gráficos', 'Histogramas'])
 
 with aba1:
     st.write('Exibindo um DataFrame com Streamlit')
-    df = pd.read_excel('https://softgraf.com/cursodatascience/produtos.xlsx')
+    df = pd.read_excel('produtos.xlsx')
     df
 
 with aba2:
