@@ -1,4 +1,6 @@
-#https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca
+#============  SOFTGRAF Cursos Avançados ============#
+#            por Valdeci Menon - maio/2024           #
+#====================================================#
 
 #Criando ambiente virtual: python -m venv venv
 #Ativando o ambiente:      .\venv\Scripts\activate
